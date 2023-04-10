@@ -11,4 +11,5 @@ git branch -M main
 git push -u origin main
 
 
-123
+para remove origin: 
+git remote remove origin
